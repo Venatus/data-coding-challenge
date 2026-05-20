@@ -1,5 +1,9 @@
 # Data Engineering Take-Home Challenge
 
+## IMPORTANT: DO NOT FORK THIS REPOSITORY
+
+Doing so will make your submission discoverable to other candidates. 
+
 ## Overview
 
 You are joining the data team at **Venatus**, a programmatic advertising company. Raw data from our ad-serving platform lands as files in a data lake landing zone. A previous engineer started building the ingestion pipeline and some dbt staging models, but the work has not been validated against the real data.
